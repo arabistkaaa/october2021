@@ -1,2 +1,2 @@
-# october2021
+ДЗ ДПО ПИТОН
 first steps
